@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aloaye121
 - 👀 I’m interested in proramming
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on Alt
+- 💞️ I’m looking to collaborate on Alx
 - 📫 i'm always available via email
 
 <!---
